@@ -1,7 +1,7 @@
 package com.knoldus.sdp.lens
 
 /**
-  * Created by harmeet on 26/3/17.
+  * Created by Harmeet Singh(Taara) on 26/3/17.
   */
 package WithLensPatternV2 {
 
