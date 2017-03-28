@@ -4,6 +4,8 @@ import simulacrum.{op, typeclass}
 
 /**
   * Created by Harmeet Singh(Taara) on 27/3/17.
+  *
+  * https://github.com/mpilquist/simulacrum
   */
 @typeclass trait Number[T] {
 
