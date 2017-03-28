@@ -3,7 +3,7 @@ package com.knoldus.sdp.ducktyping
 import java.util.StringTokenizer
 
 /**
-  * Created by harmeet on 28/3/17.
+  * Created by Harmeet Singh(Taara) on 28/3/17.
   */
 class SentenceParserTokenize {
 

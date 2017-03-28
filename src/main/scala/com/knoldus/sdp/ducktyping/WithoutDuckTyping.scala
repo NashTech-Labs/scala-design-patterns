@@ -1,7 +1,7 @@
 package com.knoldus.sdp.ducktyping
 
 /**
-  * Created by harmeet on 28/3/17.
+  * Created by Harmeet Singh(Taara) on 28/3/17.
   */
 object WithoutDuckTyping extends App {
 
