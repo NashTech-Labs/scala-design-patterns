@@ -1,7 +1,7 @@
 package com.knoldus.sdp.aop
 
 /**
-  * Created by harmeet on 30/3/17.
+  * Created by Harmeet Singh(Taara) on 30/3/17.
   */
 trait LoggingPersonDAOReader extends PersonDAO {
 

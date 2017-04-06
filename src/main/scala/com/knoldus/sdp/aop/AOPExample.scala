@@ -1,7 +1,7 @@
 package com.knoldus.sdp.aop
 
 /**
-  * Created by harmeet on 29/3/17.
+  * Created by Harmeet Singh(Taara) on 29/3/17.
   */
 case class Person (name: String)
 
@@ -25,7 +25,7 @@ class PersonDAOImplWithoutAOP extends PersonDAO{
   }
 }
 
-class PersonDAOImplWithAOP extends PersonDAO{
+class PersonDAOImplWithAOP extends PersonDAO {
 
   def readDataFromDatabase: List[Person] = {
     println("In PersonDAOImplWithAOP ... ")
@@ -37,7 +37,7 @@ class PersonDAOImplWithAOP extends PersonDAO{
   }
 }
 
-object WithoutAOPExample extends App {
+object AOPExample extends App {
 
   new PersonDAOImplWithoutAOP().readDataFromDatabase
   println()

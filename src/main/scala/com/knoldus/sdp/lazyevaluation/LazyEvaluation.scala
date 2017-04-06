@@ -1,7 +1,7 @@
 package com.knoldus.sdp.lazyevaluation
 
 /**
-  * Created by harmeet on 29/3/17.
+  * Created by Harmeet Singh(Taara) on 29/3/17.
   */
 case class Person(name: String)
 class PersonService {
